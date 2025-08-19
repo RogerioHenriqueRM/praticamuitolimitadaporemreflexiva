@@ -1,0 +1,8 @@
+div{
+    width: 350px;
+    padding: 10px;
+    border: 5px dotted green;
+    margin: 0;
+    background-color: lightgray;
+    box-sizing: border-box;
+}

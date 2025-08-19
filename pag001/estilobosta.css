@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+   
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+.reflexao {
+    font-style: italic;
+    color: #2e2e2e;
+    text-align: left;
+}
+.tamanho{
+    width: 30%;
+    height: 250px;
+    border: solid 1px;
+    border-radius: 50px 5px;
+    
+}
+
+.espaço{
+    padding: 20px;
+
+}
+
+.principal{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+}
+
+.cor1{
+    background-color: royalblue;
+}
+.cor2{
+    background-color: lightsteelblue;
+}
+.cor3{
+    background-color: rgb(141, 141, 141);
+}
+h3 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 10px;
+}
