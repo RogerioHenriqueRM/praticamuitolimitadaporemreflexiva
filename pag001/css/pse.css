@@ -1,0 +1,29 @@
+p::first-letter{
+    color: gray;
+    font-size: xx-large;
+}
+
+p::first-line{
+    color: darkgrey;
+    font-variant: small-caps;
+
+}
+
+::marker{ 
+    color: royalblue;
+    font-size: 23px;
+}
+::selection{
+    background: #1607e2;
+    color: yellow;
+}
+
+footer {
+    background: #0235be;
+    padding: 10px;
+    text-align: center;
+}
+hr {
+    border: 1px solid #0235be;
+    margin: 20px 0;
+}
